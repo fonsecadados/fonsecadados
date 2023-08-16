@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadevbr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonsecadevbr" alt="fonsecadevbr" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science with Python**
 
 - 📫 How to reach me **syafonseca@gmail.com**
