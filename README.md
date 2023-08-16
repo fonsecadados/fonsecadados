@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syã Fonseca</h1>
-<h3 align="center">Data Scientist in training from Vitória-ES, Brazil, B Data Scientist in training in Vitória-ES, Brazil, Bachelor in IT Management and student of the google business intelligence professional certification course. Passionate about Technology and Nature, some of my hobbies are games and reading, but also making music and thinking about the universe.chelor in IT Management and google business intelligence professional certificate course student. Passionate about Tech and Nature, some of my hobbies are games and reading but also make music and think about he universe.</h3>
+<h3 align="center">Data Scientist in training from Vitória-ES, Brazil, Bachelor in IT Management and student of the google business intelligence professional certification course. Passionate about Technology and Nature, some of my hobbies are games and reading, but also making music and thinking about the universe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadevbr" /> </p>
 
