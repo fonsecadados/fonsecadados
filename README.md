@@ -1,10 +1,10 @@
-# sya-fonseca
+fonsecadevbr / README.md
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="https://fonsecadevbr.github.io/">
-     <img align="center" alt="Logo Syã Fonseca" width="55px" src="https://github.com/fonsecadevbr/sya-fonseca-readme/blob/main/logo_github_sya%20-%20Copia.png"></a>
+     <img align="center" alt="Logo Syã Fonseca" width="55px" src="https://github.com/fonsecadevbr/sya-fonseca/blob/main/logo_github_sya%20-%20Copia.png"></a>
     <span>Syã Fonseca</span>
 </h1>
 
