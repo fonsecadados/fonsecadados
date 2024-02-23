@@ -7,7 +7,11 @@ Neste espaço, apresento minhas habilidades em resolver desafios empresariais po
 # Sobre mim
 Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
-Sou um profissional em transição de carreira, buscando novos horizontes e carregando na bagaem uma experiência de 12 anos no mercado Audiovisual. Sou realizador na indústria cinematográfica e publicitária, desenvolvi minha carreira como Diretor de Arte e no departamento de câmera e tenho dezenas de obras concluídas sendo elas curta-metragens, longa-metragens, clipes e VTs de publicidade. Considero que minha experiência e minha maturidade profissional são características que me confere uma vantagem no campo do desenvolvimento pessoal, no relacionamento interpessoal e nas habilidades de softskills. A dinâmica do trabalho full-time em equipe nesses 12 anos me trouxe uma capacidade de resolução de problemas em curto prazo, que é uma aspecto fundamental em uma produção audiovusal e eu pretendo desenvolver ainda mais nesse novo horizonte proffisonal no ramo da tecnologia e informação. 
+Como um profissional em transição de carreira, estou em busca de novos horizontes, trazendo comigo uma experiência rica de 12 anos no mercado audiovisual. Como realizador na indústria cinematográfica e publicitária, desempenhei papéis significativos como Diretor de Arte e no departamento de câmera, contribuindo para dezenas de obras concluídas, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade.
+
+Minha jornada nesse cenário me proporcionou uma base sólida de habilidades e maturidade profissional que vejo como uma vantagem no campo do desenvolvimento pessoal, do relacionamento interpessoal e no desenvolvimento de soft skills. A dinâmica do trabalho full-time em equipe ao longo desses anos aprimorou minha capacidade de resolver problemas em curto prazo, uma habilidade fundamental em uma produção audiovisual.
+
+Agora, estou animado para explorar um novo horizonte profissional no ramo da tecnologia e da informação. Pretendo aplicar minha experiência e habilidades adquiridas para contribuir de forma significativa neste novo campo, enquanto continuo a desenvolver e expandir meu conjunto de competências. Estou pronto para enfrentar os desafios e oportunidades que surgirem, trazendo uma abordagem criativa e uma mentalidade resiliente.
 
 Abaixo segue links dos meus trabalhos no ramo:
 
