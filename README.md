@@ -7,7 +7,7 @@ Neste espaço, apresento minhas habilidades em resolver desafios empresariais po
 # Sobre mim
 Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
-Sou um profissional em transição de carreira, buscando novos horizontes e carregando na bagaem uma experiência de 12 anos no mercado Audiovisual. Sou realizador na indústria cinematográfica e publicitária, desenvolvi minha carreira como Diretor de Arte e no departamento de câmera e tenho dezenas de obras concluídas sendo elas curta-metragens, longa-metragens, clipes e VTs de publicidade. Considero que minha experiência e minha maturidade profissional são características que me 
+Sou um profissional em transição de carreira, buscando novos horizontes e carregando na bagaem uma experiência de 12 anos no mercado Audiovisual. Sou realizador na indústria cinematográfica e publicitária, desenvolvi minha carreira como Diretor de Arte e no departamento de câmera e tenho dezenas de obras concluídas sendo elas curta-metragens, longa-metragens, clipes e VTs de publicidade. Considero que minha experiência e minha maturidade profissional são características que me confere uma vantagem no campo do desenvolvimento pessoal, no relacionamento interpessoal e nas habilidades de softskills. A dinâmica do trabalho full-time em equipe nesses 12 anos me trouxe uma capacidade de resolução de problemas em curto prazo, que é uma aspecto fundamental em uma produção audiovusal e eu pretendo desenvolver ainda mais nesse novo horizonte proffisonal no ramo da tecnologia e informação. 
 
 Moro atualmente em Vitória-ES, Brasil.
 
