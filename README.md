@@ -11,7 +11,8 @@ Sou um profissional em transição de carreira, buscando novos horizontes e carr
 
 Abaixo segue links dos meus trabalhos no ramo:
 
-Portfólio de Diretor de Arte
+Portfólio de Diretor de Arte: www.behance.net/syacenografia
+Portfólio Operador de Câmera/Diretor de Foto: www.behance.net/syafonseca
 
 Moro atualmente em Vitória-ES, Brasil.
 
