@@ -13,7 +13,7 @@ Minha jornada nesse cenário me proporcionou uma base sólida de habilidades e m
 
 Agora, estou animado para explorar um novo horizonte profissional no ramo da tecnologia e da informação. Pretendo aplicar minha experiência e habilidades adquiridas para contribuir de forma significativa neste novo campo, enquanto continuo a desenvolver e expandir meu conjunto de competências. Estou pronto para enfrentar os desafios e oportunidades que surgirem, trazendo uma abordagem criativa e uma mentalidade resiliente.
 
-Abaixo segue links dos meus trabalhos no ramo:
+Abaixo segue links dos meus trabalhos mais recentes no ramo Audiovisual:
 
 Portfólio de Diretor de Arte: www.behance.net/syacenografia  
 Portfólio Operador de Câmera/Diretor de Foto: www.behance.net/syafonseca
