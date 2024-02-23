@@ -35,7 +35,15 @@ Moro atualmente em Vitória-ES, Brasil.
 * Orientação a objetos
 * SQL para extração, limpeza e tratamento de dados
 * Banco de dados: conhecimentos em MySQL, SQLServer
-* 
+
+## Visualização e Manipulação de Dados
+
+* Matplotlib
+* Pandas
+* Seaborn
+* Numpy
+* Plotly
+  
 ### OS
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
