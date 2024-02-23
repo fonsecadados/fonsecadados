@@ -1,7 +1,12 @@
 
 
 
-# Syã Fonseca
+# Seja muito bem vindo(a) ao meu Github!
+---
+Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
+
+# Sobre mim
+---
 Formado em Ciência de Dados com Python, Cursando Superior em Análise e Desenvolvimento de Sistemas e Certificação em Business Intelligence pelo Google. Apaixonado por tecnologia e por dados.
 
 Moro atualmente em Vitória-ES, Brasil.
