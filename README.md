@@ -15,8 +15,8 @@ Agora, estou animado para explorar um novo horizonte profissional no ramo da tec
 
 Abaixo segue links dos meus trabalhos mais recentes no ramo Audiovisual:
 
-Portfólio de Diretor de Arte: www.behance.net/syacenografia  
-Portfólio Operador de Câmera/Diretor de Foto: www.behance.net/syafonseca
+[Portfólio de Diretor de Arte](www.behance.net/syacenografia)  
+[Portfólio Operador de Câmera/Diretor de Foto](www.behance.net/syafonseca)
 
 Moro atualmente em Vitória-ES, Brasil.
 
