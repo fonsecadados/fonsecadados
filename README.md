@@ -27,7 +27,15 @@ Moro atualmente em Vitória-ES, Brasil.
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+27+995239355) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
-## Habilidades
+## Habilidades Técnicas
+### Linguagens de Programação e Banco de Dados
+
+* Python com foco em análise de dados
+* Web Scraping com Python
+* Orientação a objetos
+* SQL para extração, limpeza e tratamento de dados
+* Banco de dados: conhecimentos em MySQL, SQLServer
+* 
 ### OS
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
