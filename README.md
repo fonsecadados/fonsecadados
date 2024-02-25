@@ -21,7 +21,7 @@ Abaixo segue links dos meus trabalhos mais recentes no ramo Audiovisual:
 Moro atualmente em Vitória-ES, Brasil.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadevbr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
 
 ## Conecte-se Comigo
 ### Social
