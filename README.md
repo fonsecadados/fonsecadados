@@ -59,7 +59,7 @@ Moro atualmente em Vitória-ES, Brasil.
 
 ---
 
-# Projetos - Em Contrução
+# Projetos - Em Construção
 
 ## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
 
