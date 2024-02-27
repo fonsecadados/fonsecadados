@@ -17,7 +17,8 @@ Agora, estou animado para explorar um novo horizonte profissional no ramo da tec
 
 No início de 2023 começo a me dedicar aos estudos em Ciência de Dados e suas disciplinas, como programação e estatística. Conclui ao longo desse tempo alguns cursos e bootcamps como: "Python e Lógica Programação", o bootcamp "Santander em Ciência de Dados", no qual criei uma base de entendimento boa onde tive o primeiro contato com data science. Com um nível intermediário, fiz alguns cursos em inglês como: "Google Business Intelligence" e "Data Analysis with Python".
 
-[Link da Galeria de Certificados]()
+[Link da Galeria de Certificados]()  
+ 
 Moro atualmente em Vitória-ES, Brasil.
 
 
