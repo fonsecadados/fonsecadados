@@ -4,8 +4,7 @@
 # Seja muito bem vindo(a) ao meu Github!
 Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
 
-# Syã Fonseca
-## Ciência de Dados
+# Syã Fonseca  ## Ciência de Dados
 
 Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
