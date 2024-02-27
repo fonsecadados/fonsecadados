@@ -4,7 +4,9 @@
 # Seja muito bem vindo(a) ao meu Github!
 Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
 
-# Sobre mim
+# Syã Fonseca
+## Ciência de Dados
+
 Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
 Como profissional em transição de carreira, trago uma experiência sólida de 12 anos no mercado audiovisual, onde desempenhei papéis significativos, como Diretor de Arte e no departamento de câmera. Contribuí para a conclusão de dezenas de obras, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade. Essa jornada me proporcionou uma base sólida de habilidades e maturidade profissional, destacando-me no desenvolvimento pessoal, relacionamento interpessoal e aprimoramento de soft skills. Minha experiência full-time em equipe refinou minha capacidade de resolver problemas em curto prazo, uma habilidade essencial na produção audiovisual. Estou agora buscando explorar novos horizontes e aplicar essas habilidades em novos desafios profissionais.
