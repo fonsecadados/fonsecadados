@@ -7,16 +7,15 @@ Neste espaço, apresento minhas habilidades em resolver desafios empresariais po
 # Sobre mim
 Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
-Como um profissional em transição de carreira, estou em busca de novos horizontes, trazendo comigo uma experiência rica de 12 anos no mercado audiovisual. Como realizador na indústria cinematográfica e publicitária, desempenhei papéis significativos como Diretor de Arte e no departamento de câmera, contribuindo para dezenas de obras concluídas, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade.
-
-Minha jornada nesse cenário me proporcionou uma base sólida de habilidades e maturidade profissional que vejo como uma vantagem no campo do desenvolvimento pessoal, do relacionamento interpessoal e no desenvolvimento de soft skills. A dinâmica do trabalho full-time em equipe ao longo desses anos aprimorou minha capacidade de resolver problemas em curto prazo, uma habilidade fundamental em uma produção audiovisual.
+Como profissional em transição de carreira, trago uma experiência sólida de 12 anos no mercado audiovisual, onde desempenhei papéis significativos, como Diretor de Arte e no departamento de câmera. Contribuí para a conclusão de dezenas de obras, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade. Essa jornada me proporcionou uma base sólida de habilidades e maturidade profissional, destacando-me no desenvolvimento pessoal, relacionamento interpessoal e aprimoramento de soft skills. Minha experiência full-time em equipe refinou minha capacidade de resolver problemas em curto prazo, uma habilidade essencial na produção audiovisual. Estou agora buscando explorar novos horizontes e aplicar essas habilidades em novos desafios profissionais.
 
 Agora, estou animado para explorar um novo horizonte profissional no ramo da tecnologia e da informação. Pretendo aplicar minha experiência e habilidades adquiridas para contribuir de forma significativa neste novo campo, enquanto continuo a desenvolver e expandir meu conjunto de competências. Estou pronto para enfrentar os desafios e oportunidades que surgirem, trazendo uma abordagem criativa e uma mentalidade resiliente.
 
-Abaixo segue links dos meus trabalhos mais recentes no ramo Audiovisual:
 
 [Portfólio de Diretor de Arte](www.behance.net/syacenografia)  
 [Portfólio Operador de Câmera/Diretor de Foto](www.behance.net/syafonseca)
+
+No início de 2023 começo a me dedicar aos estudos em Ciência de Dados e suas disciplinas, como programação e estatística. Conclui ao longo desse tempo alguns cursos e bootcamps como: "Python e Lógica Programação", o bootcamp "Santander em Ciência de Dados", no qual criei uma base de entendimento boa onde tive o primeiro contato com data science. Com um nível intermediário, fiz alguns cursos em inglês como: "Google Business Intelligence" e "Data Analysis with Python".
 
 Moro atualmente em Vitória-ES, Brasil.
 
