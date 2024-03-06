@@ -26,7 +26,7 @@ Moro atualmente em Vitória-ES, Brasil.
 
 ## Conecte-se Comigo
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+27+995239355) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+27+995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
 ## Habilidades Técnicas
 ### Linguagens de Programação e Banco de Dados
