@@ -45,12 +45,12 @@ Moro atualmente em Vitória-ES, Brasil.
 * Numpy
 * Plotly
 
-### Linguagens de Programação
+<!-- Seu comentário aqui  ### Linguagens de Programação
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+-->
 ## Habilidades em Desenvolvimento
 
 * Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
@@ -92,7 +92,7 @@ ___
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
 ___
 
-## []()
+<!-- ## []()
 ### Terminal
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![POWERSHELL](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![WINDOWSSHELL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -106,11 +106,12 @@ ___
 
 ![COURSERA](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![DUOLINGO](	https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) ![EDX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
+-->
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadevbr&theme=transparent&bg_color=4999&border_color=30A3DC&show_icons=true&icon_color=19A3DC&title_color=f8f3e1&text_color=f8f3e1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadados&theme=transparent&bg_color=4999&border_color=30A3DC&show_icons=true&icon_color=19A3DC&title_color=f8f3e1&text_color=f8f3e1)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF)
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF) -->
 
 
 
