@@ -109,7 +109,7 @@ ___
 -->
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadados&theme=transparent&bg_color=4999&border_color=30A3DC&show_icons=true&icon_color=19A3DC&title_color=f8f3e1&text_color=f8f3e1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadados&theme=transparent&bg_color=12&border_color=110f0f&show_icons=true&icon_color=110f0f&title_color=110f0f&text_color=110f0f)
 
 <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF) -->
 
