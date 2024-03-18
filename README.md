@@ -69,10 +69,10 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 
 * Python, Pandas, Numpy
 * Matplotlib, Seaborn
-* Linear Regression, Lasso Linear Regression, Ridge Linear Regression, Random Forest, XGBoost
 * Estatísca descritiva e inferencial
 * Git e Github
 
+<!--
 ## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
 
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
@@ -91,6 +91,7 @@ ___
 
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
 ___
+-->
 
 <!-- ## []()
 ### Terminal
