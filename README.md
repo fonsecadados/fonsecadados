@@ -5,19 +5,37 @@
 Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
 
 # Syã Fonseca - Cientista de Dados  
-Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
 
-Como profissional em transição de carreira, trago uma experiência sólida de 12 anos no mercado audiovisual, onde desempenhei papéis significativos, como Diretor de Arte e no departamento de câmera. Contribuí para a conclusão de dezenas de obras, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade. Essa jornada me proporcionou uma base sólida de habilidades e maturidade profissional, destacando-me no desenvolvimento pessoal, relacionamento interpessoal e aprimoramento de soft skills. Minha experiência full-time em equipe refinou minha capacidade de resolver problemas em curto prazo, uma habilidade essencial na produção audiovisual. Estou agora buscando explorar novos horizontes e aplicar essas habilidades em novos desafios profissionais.
+Resumo Profissional:
 
-Agora, estou animado para explorar um novo horizonte profissional no ramo da tecnologia e da informação. Pretendo aplicar minha experiência e habilidades adquiridas para contribuir de forma significativa neste novo campo, enquanto continuo a desenvolver e expandir meu conjunto de competências. Estou pronto para enfrentar os desafios e oportunidades que surgirem, trazendo uma abordagem criativa e uma mentalidade resiliente.
+Atualmente, estou cursando Ciência de Dados na Universidade Anhanguera. Tenho 12 anos de experiência no mercado audiovisual, atuando como Diretor de Arte e no departamento de câmera, onde contribuí para dezenas de projetos, incluindo curta-metragens, longa-metragens, clipes e VTs publicitários.
 
+Transição de Carreira:
 
-[Portfólio de Diretor de Arte](www.behance.net/syacenografia)  
-[Portfólio Operador de Câmera/Diretor de Foto](www.behance.net/syafonseca)
+Desde o início de 2023, estou focado em Ciência de Dados, concluindo cursos como:
 
-No início de 2023 começo a me dedicar aos estudos em Ciência de Dados e suas disciplinas, como programação e estatística. Conclui ao longo desse tempo alguns cursos e bootcamps como: "Python e Lógica Programação", o bootcamp "Santander em Ciência de Dados", no qual criei uma base de entendimento boa onde tive o primeiro contato com data science. Com um nível intermediário, fiz alguns cursos em inglês como: "Google Business Intelligence" e "Data Analysis with Python".
+"Python e Lógica de Programação"
+Bootcamp "Santander em Ciência de Dados"
+"Google Business Intelligence"
+"Data Analysis with Python"
+Habilidades Desenvolvidas:
 
-[Galeria de Certificados]()  
+Programação em Python
+Análise de Dados
+Estatística
+Trabalho em Equipe
+Resolução de Problemas
+Objetivo Profissional:
+
+Estou em busca de oportunidades no setor de tecnologia e informação, onde posso aplicar minha experiência e novos conhecimentos para contribuir de forma significativa. Resido em Vitória-ES, Brasil, e estou pronto para novos desafios.
+
+Portfólios:
+
+[Diretor de Arte](www.behance.net/syacenografia)  
+[Operador de Câmera/Diretor de Fotografia](www.behance.net/syafonseca)
+Certificações:
+
+[Galeria de Certificados]()
  
 Moro atualmente em Vitória-ES, Brasil.
 
