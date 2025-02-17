@@ -26,46 +26,6 @@ Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me 
 
 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!**  
 
-
-# Seja muito bem vindo(a) ao meu Github!
-Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
-
-# Syã Fonseca - Cientista de Dados  
-
-Resumo Profissional:
-
-Atualmente, estou cursando Ciência de Dados na Universidade Anhanguera. Tenho 12 anos de experiência no mercado audiovisual, atuando como Diretor de Arte e no departamento de câmera, onde contribuí para dezenas de projetos, incluindo curta-metragens, longa-metragens, clipes e VTs publicitários.
-
-Transição de Carreira:
-
-Desde o início de 2023, estou focado em Ciência de Dados, concluindo cursos como:
-
-"Python e Lógica de Programação"
-Bootcamp "Santander em Ciência de Dados"
-"Google Business Intelligence"
-"Data Analysis with Python"
-Habilidades Desenvolvidas:
-
-Programação em Python
-Análise de Dados
-Estatística
-Trabalho em Equipe
-Resolução de Problemas
-Objetivo Profissional:
-
-Estou em busca de oportunidades no setor de tecnologia e informação, onde posso aplicar minha experiência e novos conhecimentos para contribuir de forma significativa. Resido em Vitória-ES, Brasil, e estou pronto para novos desafios.
-
-Portfólios:
-
-[Diretor de Arte](www.behance.net/syacenografia)  
-[Operador de Câmera/Diretor de Fotografia](www.behance.net/syafonseca)
-Certificações:
-
-[Galeria de Certificados]()
- 
-Moro atualmente em Vitória-ES, Brasil.
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
 
 ## Conecte-se Comigo
