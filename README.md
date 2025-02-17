@@ -15,7 +15,10 @@ Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me 
 - **Ferramentas**: SQL, Google Data Studio, Power BI  
 
 ## 📂 Portfólio de Projetos  
-- 📊 [Projeto 1: Análise de dados de vendas](#)  
+- 📊 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
+
+No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
+
 - 🏥 [Projeto 2: Predição de doenças com Machine Learning](#)  
 - 🌍 [Projeto 3: Visualização de dados ambientais](#)  
 
@@ -32,49 +35,12 @@ Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
-## Habilidades Técnicas
-### Linguagens de Programação e Banco de Dados
-
-* Python com foco em análise de dados
-* Web Scraping com Python
-* Orientação a objetos
-* SQL para extração, limpeza e tratamento de dados
-* Banco de dados: conhecimentos em MySQL, SQLServer
-
-## Visualização e Manipulação de Dados
-
-* Matplotlib
-* Pandas
-* Seaborn
-* Numpy
-* Plotly
-
 <!-- Seu comentário aqui  ### Linguagens de Programação
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 -->
-## Habilidades em Desenvolvimento
-
-* Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
-* Algoritmos de Regressão e classificação
-* Pacotes de Machine Learning: Sklearn e Scipy
-
----
-
-# Projetos - Em Construção
-
-## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
-
-No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
-
-**Ferramentas Utilizadas:**
-
-* Python, Pandas, Numpy
-* Matplotlib, Seaborn
-* Estatísca descritiva e inferencial
-* Git e Github
 
 <!--
 ## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
