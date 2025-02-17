@@ -1,4 +1,30 @@
 
+# Seja muito bem-vindo(a) ao meu GitHub!  
+
+Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. Meu portfólio inclui projetos com dados públicos e iniciativas pessoais, onde demonstro habilidades em **análise de dados, estatística e programação em Python**.  
+
+## 📌 Sobre Mim  
+Atualmente, curso **Ciência de Dados na Universidade Anhanguera** e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
+
+Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me proporcionou habilidades valiosas, como **atenção a detalhes, resolução de problemas e pensamento analítico** – competências que aplico na Ciência de Dados.  
+
+## 🎯 Habilidades Técnicas  
+- **Programação**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Análise de Dados**: Manipulação e visualização de dados  
+- **Estatística**: Análise exploratória, modelagem estatística  
+- **Ferramentas**: SQL, Google Data Studio, Power BI  
+
+## 📂 Portfólio de Projetos  
+- 📊 [Projeto 1: Análise de dados de vendas](#)  
+- 🏥 [Projeto 2: Predição de doenças com Machine Learning](#)  
+- 🌍 [Projeto 3: Visualização de dados ambientais](#)  
+
+## 🎓 Certificações e Cursos  
+- **Google Business Intelligence**  
+- **Santander Bootcamp em Ciência de Dados**  
+- **Data Analysis with Python**  
+
+📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!**  
 
 
 # Seja muito bem vindo(a) ao meu Github!
