@@ -9,7 +9,9 @@ Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e 
 - **Banco de Dados** 
 
 ## 📌 Sobre Mim  
-Atualmente, curso **Ciência de Dados na Universidade Anhanguera** e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
+Atualmente no 3° período de Ciência de Dados, desenvolvendo habilidades em programação, estatística e análise de dados. Tenho interesse em soluções baseadas em dados para tomada de decisão e otimização de processos.
+
+Cursando o 3° Período em **Ciência de Dados**, desenvolvendo habilidades em programação e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
 
 Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me proporcionou habilidades valiosas, como **atenção a detalhes, resolução de problemas e pensamento analítico** – competências que aplico na Ciência de Dados.  
 
