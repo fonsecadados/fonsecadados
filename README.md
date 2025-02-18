@@ -1,7 +1,12 @@
 
 # Seja muito bem-vindo(a) ao meu GitHub!  
 
-Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. Meu portfólio inclui projetos com dados públicos e iniciativas pessoais, onde demonstro habilidades em **análise de dados, estatística e programação em Python**.  
+Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. Meu portfólio inclui projetos com dados públicos e iniciativas pessoais, onde demonstro habilidades em:
+
+- **Análise de Dados 
+- **Matemática e Estatística Analítica
+- **Linguagem Python, R e SQL
+- **Banco de Dados
 
 ## 📌 Sobre Mim  
 Atualmente, curso **Ciência de Dados na Universidade Anhanguera** e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
