@@ -26,8 +26,8 @@ Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me 
 
 No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
 
-- 🏥 [Projeto 2: Predição de doenças com Machine Learning](#)  
-- 🌍 [Projeto 3: Visualização de dados ambientais](#)  
+- 🏥 [Projeto 2:](#)  
+- 🌍 [Projeto 3:](#)  
 
 ## 🎓 Certificações e Cursos  
 - **Google Business Intelligence**  
