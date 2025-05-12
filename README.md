@@ -69,7 +69,6 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 
 * Python, Pandas, Numpy
 * Matplotlib, Seaborn
-* Linear Regression, Lasso Linear Regression, Ridge Linear Regression, Random Forest, XGBoost
 * Estatísca descritiva e inferencial
 * Git e Github
 
