@@ -1,56 +1,55 @@
 
+# Seja muito bem-vindo(a) ao meu GitHub!  
 
+Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. Meu portfólio inclui projetos com dados públicos e iniciativas pessoais, onde demonstro habilidades em:
 
-# Seja muito bem vindo(a) ao meu Github!
-Neste espaço, apresento minhas habilidades em resolver desafios empresariais por meio da aplicação de conceitos e ferramentas da Ciência de Dados, demonstrando minha experiência através de projetos com dados públicos e iniciativas pessoais. Aqui, compartilho parte do meu conhecimento, das ferramentas que utilizo e dos conceitos fundamentais na área da Ciência de Dados. Sinta-se à vontade para entrar em contato por meio dos links fornecidos no final da página.
+- **Análise de Dados** 
+- **Matemática e Estatística Analítica** 
+- **Linguagem Python, R e SQL** 
+- **Banco de Dados** 
 
-# Syã Fonseca - Cientista de Dados  
-Atualmente estou me graduando em Ciência de Dados na Universidade Anhanguera.
+## 📌 Sobre Mim  
+Atualmente no 3° período de Ciência de Dados, desenvolvendo habilidades em programação, estatística e análise de dados. Tenho interesse em soluções baseadas em dados para tomada de decisão e otimização de processos.
 
-Como profissional em transição de carreira, trago uma experiência sólida de 12 anos no mercado audiovisual, onde desempenhei papéis significativos, como Diretor de Arte e no departamento de câmera. Contribuí para a conclusão de dezenas de obras, incluindo curta-metragens, longa-metragens, clipes e VTs de publicidade. Essa jornada me proporcionou uma base sólida de habilidades e maturidade profissional, destacando-me no desenvolvimento pessoal, relacionamento interpessoal e aprimoramento de soft skills. Minha experiência full-time em equipe refinou minha capacidade de resolver problemas em curto prazo, uma habilidade essencial na produção audiovisual. Estou agora buscando explorar novos horizontes e aplicar essas habilidades em novos desafios profissionais.
+Cursando o 3° Período em **Ciência de Dados**, desenvolvendo habilidades em programação e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
 
-Agora, estou animado para explorar um novo horizonte profissional no ramo da tecnologia e da informação. Pretendo aplicar minha experiência e habilidades adquiridas para contribuir de forma significativa neste novo campo, enquanto continuo a desenvolver e expandir meu conjunto de competências. Estou pronto para enfrentar os desafios e oportunidades que surgirem, trazendo uma abordagem criativa e uma mentalidade resiliente.
+Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me proporcionou habilidades valiosas, como **atenção a detalhes, resolução de problemas e pensamento analítico** – competências que aplico na Ciência de Dados.  
 
+## 🎯 Habilidades Técnicas  
+- **Programação**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Análise de Dados**: Manipulação e visualização de dados  
+- **Estatística**: Análise exploratória, modelagem estatística  
+- **Ferramentas**: SQL, Google Data Studio, Power BI  
 
-[Portfólio de Diretor de Arte](www.behance.net/syacenografia)  
-[Portfólio Operador de Câmera/Diretor de Foto](www.behance.net/syafonseca)
+## 📂 Portfólio de Projetos  
+- 📊 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
 
-No início de 2023 começo a me dedicar aos estudos em Ciência de Dados e suas disciplinas, como programação e estatística. Conclui ao longo desse tempo alguns cursos e bootcamps como: "Python e Lógica Programação", o bootcamp "Santander em Ciência de Dados", no qual criei uma base de entendimento boa onde tive o primeiro contato com data science. Com um nível intermediário, fiz alguns cursos em inglês como: "Google Business Intelligence" e "Data Analysis with Python".
+No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
 
-[Galeria de Certificados]()  
- 
-Moro atualmente em Vitória-ES, Brasil.
+- 🏥 [Projeto 2:](#)  
+- 🌍 [Projeto 3:](#)  
 
+## 🎓 Certificações e Cursos  
+- **Google Business Intelligence**  
+- **Santander Bootcamp em Ciência de Dados**  
+- **Data Analysis with Python**  
+
+📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!**  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
 
 ## Conecte-se Comigo
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+27+995239355) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
-## Habilidades Técnicas
-### Linguagens de Programação e Banco de Dados
-
-* Python com foco em análise de dados
-* Web Scraping com Python
-* Orientação a objetos
-* SQL para extração, limpeza e tratamento de dados
-* Banco de dados: conhecimentos em MySQL, SQLServer
-
-## Visualização e Manipulação de Dados
-
-* Matplotlib
-* Pandas
-* Seaborn
-* Numpy
-* Plotly
-
-### Linguagens de Programação
+<!-- Seu comentário aqui  ### Linguagens de Programação
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+-->
 
+<<<<<<< HEAD
 ## Habilidades em Desenvolvimento
 
 * Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
@@ -72,6 +71,9 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 * Estatísca descritiva e inferencial
 * Git e Github
 
+=======
+<!--
+>>>>>>> c91a35ee079605396bba25c795974a640ed2f39c
 ## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
 
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
@@ -90,8 +92,9 @@ ___
 
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
 ___
+-->
 
-## []()
+<!-- ## []()
 ### Terminal
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![POWERSHELL](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![WINDOWSSHELL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -105,11 +108,12 @@ ___
 
 ![COURSERA](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![DUOLINGO](	https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) ![EDX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
+-->
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadevbr&theme=transparent&bg_color=4999&border_color=30A3DC&show_icons=true&icon_color=19A3DC&title_color=f8f3e1&text_color=f8f3e1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadados&theme=transparent&bg_color=12&border_color=110f0f&show_icons=true&icon_color=110f0f&title_color=110f0f&text_color=110f0f)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF)
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF) -->
 
 
 
