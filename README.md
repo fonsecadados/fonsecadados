@@ -14,7 +14,7 @@ Para uma abordagem mais acessível e reflexiva sobre Ciência de Dados, convido 
 
 Tenho forte domínio de linguagem visual, trabalho em equipe, comunicação eficaz e resolução de problemas sob pressão — habilidades que agora aplico em projetos de Ciência de Dados, disponíveis aqui.
 
-#### 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Entre em contato!** 
+#### 📍 **Baseado em Vitória-ES, Brasil**  |   🚀 **Entre em contato!** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
@@ -76,8 +76,8 @@ Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discuss�
 
 ## 🎓 Certificações e Cursos  
 - Python Data Analytics - Plataforma DIO - Jun. 2024
-- Fundamentos de Python para Análise de Dados e Data Science - 
-- Data Science Academy - Jan.2024
+- Fundamentos de Python para Análise de Dados e Data Science - Mai. 2024
+- Data Science Academy - Jan. 2024
 - Desenv. Projeto Python com Estruturas de Dados - Fundação Bradesco - Dez. 2023
 - Implementando e Administrando um Banco de Dados - Fundação Bradesco - Dez 2023
 - Desenv. Orientado a Objetos com Python - Fundação Bradesco - Dez. 2023
