@@ -58,9 +58,21 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 - 🌍 [Projeto 3:](#)  
 
 ## 🎓 Certificações e Cursos  
-- **Google Business Intelligence**  
-- **Santander Bootcamp em Ciência de Dados**  
-- **Data Analysis with Python**  
+- Python Data Analytics - Plataforma DIO - Jun. 2024
+- Fundamentos de Python para Análise de Dados e Data Science - 
+- Data Science Academy - Jan.2024
+- Desenv. Projeto Python com Estruturas de Dados - Fundação Bradesco - Dez. 2023
+- Implementando e Administrando um Banco de Dados - Fundação Bradesco - Dez 2023
+- Desenv. Orientado a Objetos com Python - Fundação Bradesco - Dez. 2023
+- Introdução a Programação Orientada a Objetos - Fundação Bradesco - Dez. 3023
+- Ciência de Dados com Python - Bolsa Santander Universidades - Out. 2023
+- Descubra a Nuvem AWS - Bolsa Santander Universidades - Out. 2023
+- Foundations of Business Intelligence - Coursera - Cursado em inglês - Ago. 2023
+- Data Analysis with Python - FreeCodeCamp.org - Cursado em Inglês - Jul. 2023
+- Python 3 Básico ao Avançado - Udemy - Maio 2023
+- Curso de Digitação Rápida - Udemy - Maio 2023  
+
+*Confira galeria de certificados [aqui.](https://github.com/fonsecadados/GaleriaCertificados)*
 
 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!**  
 
