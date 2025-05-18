@@ -91,16 +91,6 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 -->
 
-## Habilidades em Desenvolvimento
-
-* Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
-* Algoritmos de Regressão e classificação
-* Pacotes de Machine Learning: Sklearn e Scipy
-
----
-
-## Projetos - Em Construção
-
 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
 
 No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
