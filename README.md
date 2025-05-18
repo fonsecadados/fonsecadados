@@ -5,6 +5,10 @@ Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas h
 
 Para uma abordagem mais acessível e reflexiva sobre Ciência de Dados, convido você a visitar meu *[blog](https://fonsecadados.github.io/)*. Nesse espaço, compartilho conteúdos que traduzem conceitos técnicos em aplicações práticas e cotidianas, buscando tornar o conhecimento mais claro, didático e conectado com o mundo real.
 
+
+#### 📢 [Blog Github.io](https://fonsecadados.github.io/)
+#### 🛰️ [Currículo Vitae](https://github.com/fonsecadados/Curriculo)
+
  **Sinta-se à vontade!** 
 
 ## 📌 Sobre Mim  
@@ -65,7 +69,11 @@ Tenho forte domínio de linguagem visual, trabalho em equipe, comunicação efic
 
 No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
 
-- 🏥 [Projeto 2:](#)  
+- ### 🏥 [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP) 
+
+
+Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
+
 - 🌍 [Projeto 3:](#)  
 
 ## 🎓 Certificações e Cursos  
@@ -85,38 +93,9 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 
 *Confira galeria de certificados [aqui.](https://github.com/fonsecadados/GaleriaCertificados)*
 
-## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
 
-No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competição desafiadora com o cinema estrangeiro, principalmente o americano, devido aos recursos financeiros e de marketing limitados das produções locais em comparação com seus concorrentes estrangeiros. A disparidade no acesso aos recursos dentro da indústria, onde grandes estúdios têm vantagem sobre cineastas independentes, e a importância das políticas públicas e incentivos governamentais para promover a sustentabilidade e diversidade da produção nacional são aspectos cruciais a serem considerados.
 
-**Ferramentas Utilizadas:**
-
-* Python, Pandas, Numpy
-* Matplotlib, Seaborn
-* Estatísca descritiva e inferencial
-* Git e Github
-
-## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
-
-Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
-
-**Ferramentas Utilizadas:**
-
-* Python, Pandas, Numpy
-* Matplotlib, Seaborn
-* Linear Regression, Lasso Linear Regression, Ridge Linear Regression, Random Forest, XGBoost
-* Estatísca descritiva e inferencial
-* Git e Github
-  
-___
-
-## [Tendências mensais nos preços dos combustíveis no ES com base nos dados da ANP](https://github.com/fonsecadados/ANP-Historico-Pre-os-Combustiveis-GLP)
-
-Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
-___
--->
-
-<!-- ## []()
+ ## []()
 ### Terminal
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![POWERSHELL](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![WINDOWSSHELL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -134,10 +113,6 @@ ___
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecadados&theme=transparent&bg_color=12&border_color=110f0f&show_icons=true&icon_color=110f0f&title_color=110f0f&text_color=110f0f)
-
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fonsecadevbr&bg_color=4999&border_color=30A3DC&title_color=f8f3e1&text_color=FFF) -->
-
-
 
 
 
