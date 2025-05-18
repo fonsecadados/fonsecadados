@@ -9,10 +9,6 @@ Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas h
 Tenho forte domínio de linguagem visual, trabalho em equipe, comunicação eficaz e resolução de problemas sob pressão — habilidades que agora aplico em projetos de Ciência de Dados, disponíveis aqui.
 
 ## 🎯 Habilidades Técnicas  
-- **Programação**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Análise de Dados**: Manipulação e visualização de dados  
-- **Estatística**: Análise exploratória, modelagem estatística  
-- **Ferramentas**: SQL, Google Data Studio, Power BI  
 
  **Idiomas**
  - **Inglês** - Intermediário (escrita e leitura), Básico (conversação)  
