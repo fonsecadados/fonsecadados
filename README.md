@@ -1,5 +1,5 @@
 
-# Seja muito bem-vindo(a) ao meu GitHub!  
+# 🌍 Seja muito bem-vindo(a) ao meu GitHub!  
 
 Aqui, compartilho minha jornada em **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. 
 
