@@ -74,11 +74,13 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 
 *Confira galeria de certificados [aqui.](https://github.com/fonsecadados/GaleriaCertificados)*
 
-📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!**  
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
 
 ## Conecte-se Comigo
+
+#### 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!** 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
 
