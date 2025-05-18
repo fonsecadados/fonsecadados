@@ -1,20 +1,59 @@
 
 # Seja muito bem-vindo(a) ao meu GitHub!  
 
-Aqui, compartilho minha jornada na **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. 
+Aqui, compartilho minha jornada em **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. 
+
+Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas através de projetos com dados públicos e projetos pessoais. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade! 
 
 ## 📌 Sobre Mim  
-Atualmente no 3° período de Ciência de Dados, desenvolvendo habilidades em programação, estatística e análise de dados. Tenho interesse em soluções baseadas em dados para tomada de decisão e otimização de processos.
+ Profissional em transição para a área de Dados, com 15 anos de experiência em cinema e artes visuais. Atuei como Diretor de Arte em comerciais e filmes, com destaque para “A Mata Negra”  (2017), disponível na Prime Video, além de projetos para empresas como Vale S.A., Samarco e Detran. 
 
-Cursando o 3° Período em **Ciência de Dados**, desenvolvendo habilidades em programação e estou em transição de carreira, migrando do setor **audiovisual** para a **tecnologia e análise de dados**.  
-
-Minha experiência de **12 anos como Diretor de Arte e Operador de Câmera** me proporcionou habilidades valiosas, como **atenção a detalhes, resolução de problemas e pensamento analítico** – competências que aplico na Ciência de Dados.  
+Tenho forte domínio de linguagem visual, trabalho em equipe, comunicação eficaz e resolução de problemas sob pressão — habilidades que agora aplico em projetos de Ciência de Dados, disponíveis aqui.
 
 ## 🎯 Habilidades Técnicas  
 - **Programação**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Análise de Dados**: Manipulação e visualização de dados  
 - **Estatística**: Análise exploratória, modelagem estatística  
 - **Ferramentas**: SQL, Google Data Studio, Power BI  
+
+ **Idiomas**
+ - **Inglês** - Intermediário (escrita e leitura), Básico (conversação)  
+
+ **Ferramentas e Softwares**  
+ - **Excel / Google Sheets**: Fórmulas, gráficos, dashboards (nível básico a intermediário)  
+
+ **Ferramentas de Versionamento**: 
+ - Git 
+ - GitHub  
+
+ **Ambientes de Desenvolvimento**: 
+ - Jupyter Notebook 
+ - Google Colab 
+ - VS Code
+
+ **Programação e Banco de Dados**
+ - **Python**: Automação de tarefas, Notebooks interativos, Programação Orientada a Objetos (POO), Modelagem estatística, Modelos preditivos  
+ - **SQL**: Joins, subqueries, otimização de consultas, NoSQL  
+ - **R**: Uso básico para ETL e análises estatísticas  
+ - **Banco de Dados Relacional**: MySQL, PostgreSQL
+
+ **Manipulação e Visualização de Dados**
+ - Pandas
+ - NumPy
+ - **Visualização**: Matplotlib, Seaborn, Plotly  
+
+ **Estatística e Probabilidade**
+ - Análise exploratória de dados  
+ - Regressão e previsão
+ - Inferência estatística e testes de hipótese
+ - Análise de componentes principais (PCA), Análise de clusters
+
+ **Machine Learning**  
+ - Pré-processamento de dados, seleção de atributos
+ - Modelos supervisionados (regressão, classificação)
+ - Modelos não supervisionados (clustering, redução de dimensionalidade)
+ - Avaliação de modelos (métricas de performance, validação cruzada)
+ - Bibliotecas: Scikit-learn, Statsmodels
 
 ## 📂 Portfólio de Projetos  
 - 📊 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
@@ -44,7 +83,6 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 -->
 
-<<<<<<< HEAD
 ## Habilidades em Desenvolvimento
 
 * Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
@@ -53,7 +91,7 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 
 ---
 
-# Projetos - Em Construção
+## Projetos - Em Construção
 
 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
 
@@ -66,9 +104,6 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 * Estatísca descritiva e inferencial
 * Git e Github
 
-=======
-<!--
->>>>>>> c91a35ee079605396bba25c795974a640ed2f39c
 ## [Segurança Pública: Um olhar sobre roubos e furtos no Espírito Santo e na Grande Vitória](https://github.com/fonsecadados/Dados_SESP)
 
 Nos últimos anos, a segurança pública vem fazendo parte da pauta nas discussões, sejam elas em casa, no convívio social ou em esferas administrativas, e cada dia a sensação de insegurança aumenta e esse tema se faz ainda mais presente e importante. É nesse contexto que desenvolvemos esse projeto de pesquisa exploratória que visa conhecer e entender melhor o perfil de ocorrências de roubos e furtos no Espírito Santo e principalmente Grande Vitória. Nesse conjunto de dados temos acesso a informações valiosas como: data da ocorrência, hora e endereço completo. Com esse volume de informações poderemos vislumbrar melhor a dimensão desse tipo de crime em nosso estado.
