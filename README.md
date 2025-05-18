@@ -1,9 +1,7 @@
 
 # 🌍 Seja muito bem-vindo(a) ao meu GitHub!  
 
-Aqui, compartilho minha jornada em **Ciência de Dados**, aplicando conceitos e ferramentas para resolver desafios reais. 
-
-Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas através de projetos com dados públicos e projetos pessoais. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade! 
+Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas habilidades de resolver problemas reais de negócio utilizando conceitos e ferramentas através de projetos com dados públicos e projetos pessoais. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade! 
 
 ## 📌 Sobre Mim  
  Profissional em transição para a área de Dados, com 15 anos de experiência em cinema e artes visuais. Atuei como Diretor de Arte em comerciais e filmes, com destaque para “A Mata Negra”  (2017), disponível na Prime Video, além de projetos para empresas como Vale S.A., Samarco e Detran. 
