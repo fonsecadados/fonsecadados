@@ -5,11 +5,9 @@ Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas h
 
 Para uma abordagem mais acessível e reflexiva sobre Ciência de Dados, convido você a visitar meu *[blog](https://fonsecadados.github.io/)*. Nesse espaço, compartilho conteúdos que traduzem conceitos técnicos em aplicações práticas e cotidianas, buscando tornar o conhecimento mais claro, didático e conectado com o mundo real.
 
-
+ **Sinta-se à vontade!** 
 #### 📢 [Blog Github.io](https://fonsecadados.github.io/)
 #### 🛰️ [Currículo Vitae](https://github.com/fonsecadados/Curriculo)
-
- **Sinta-se à vontade!** 
 
 ## 📌 Sobre Mim  
  Profissional em transição para a área de Dados, com 15 anos de experiência em cinema e artes visuais. Atuei nos Departamentos de Arte/Foto em comerciais e filmes, com destaque para “A Mata Negra”  (2017), disponível na Prime Video, além de projetos para empresas como Vale S.A., Samarco e Detran. 
