@@ -1,9 +1,9 @@
 
 # 🌍 Seja muito bem-vindo(a) ao meu GitHub!  
 
-Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas habilidades de resolver problemas reais de negócio utilizando conceitos e ferramentas através de **Projetos Profissionais, Pessoais** e **Projetos com Dados Públicos**. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. 
+Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas através de **Projetos Profissionais, Pessoais** e **Projetos com Dados Públicos**. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. 
 
-
+Para uma abordagem mais acessível e reflexiva sobre Ciência de Dados, convido você a visitar meu *[blog](https://fonsecadados.github.io/)*. Nesse espaço, compartilho conteúdos que traduzem conceitos técnicos em aplicações práticas e cotidianas, buscando tornar o conhecimento mais claro, didático e conectado com o mundo real.
 
  **Sinta-se à vontade!** 
 
@@ -11,6 +11,13 @@ Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas h
  Profissional em transição para a área de Dados, com 15 anos de experiência em cinema e artes visuais. Atuei nos Departamentos de Arte/Foto em comerciais e filmes, com destaque para “A Mata Negra”  (2017), disponível na Prime Video, além de projetos para empresas como Vale S.A., Samarco e Detran. 
 
 Tenho forte domínio de linguagem visual, trabalho em equipe, comunicação eficaz e resolução de problemas sob pressão — habilidades que agora aplico em projetos de Ciência de Dados, disponíveis aqui.
+
+#### 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Entre em contato!** 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
 
 ## 🎯 Habilidades Técnicas  
 
@@ -77,23 +84,6 @@ No Brasil, a indústria cinematográfica, embora ativa, enfrenta uma competiçã
 - Curso de Digitação Rápida - Udemy - Maio 2023  
 
 *Confira galeria de certificados [aqui.](https://github.com/fonsecadados/GaleriaCertificados)*
-
- 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonsecadevbr&label=Profile%20views&color=0e75b6&style=flat" alt="fonsecadados" /> </p>
-
-## Conecte-se Comigo
-
-#### 📍 **Baseado em Vitória-ES, Brasil** | 🚀 **Aberto a novas oportunidades!** 
-### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e327d?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/syafonseca/)  [![Telegram](https://img.shields.io/badge/Telegram-e8e3e3?style=for-the-badge&logo=telegram&logoColor=f)](https://t.me/syafonseca) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527995239355) [![E-mail](https://img.shields.io/badge/-Email-b14343?style=for-the-badge&logo=microsoft-outlook&logoColor=0e0e0f)](mailto:syafonseca@gmail.com) [![Discord](https://img.shields.io/badge/Discord-e8e3e3?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@sya.fonseca/)
-
-<!-- Seu comentário aqui  ### Linguagens de Programação
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
--->
 
 ## [Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE.git)
 
