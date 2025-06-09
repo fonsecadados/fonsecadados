@@ -6,7 +6,7 @@ Aqui, compartilho minha jornada em **Ciência de Dados**,  demonstrando minhas h
 Para uma abordagem mais acessível e reflexiva sobre Ciência de Dados, convido você a visitar meu *[blog](https://fonsecadados.github.io/)*. Nesse espaço, compartilho conteúdos que traduzem conceitos técnicos em aplicações práticas e cotidianas, buscando tornar o conhecimento mais claro, didático e conectado com o mundo real.
 
  **Sinta-se à vontade!** 
-#### 📢 [Blog Github.io](https://fonsecadados.github.io/)
+
 #### 🛰️ [Currículo Vitae](https://github.com/fonsecadados/Curriculo)
 
 ## 📌 Sobre Mim  
